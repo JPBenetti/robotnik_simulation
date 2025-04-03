@@ -1,3 +1,7 @@
+# deprecated
+
+This branch has been deprecated. Please use humble-devel or jazzy-devel depending on your ROS distro.
+
 <a id="readme-top"></a>
 
 
